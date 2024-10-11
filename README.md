@@ -69,11 +69,49 @@ s3.equals(s4); //¿TRUE O FALSE?
 - ArrayList vs LinkedList ¿cuándo es mejor usar uno u otro?
 - HashMap vs TreeMap vs LinkedHashMap
 - HashSet, TreeSet y LinkedHashSet,¿cómo funcionan y qué diferencias tienen?
+- ¿Qué ocupa más memoria un ArrayList o una LinkedList?
 
 ### Iteradores y Streams
 - Uso de iterator y ListIterator
-- ¿Qué son los Streams?
+- ¿Qué es Streams?
 - Metodos intermedios y finales en Streams
 
+### Sobre algoritmos
+- Eficiencia de tiempo de operaciones comunes (Big O)
 
+## 4. Conceptos avanzados de Java
+
+### Memoria en Java
+- Tipos de memoria en Java
+- Garbage collector (G1, Serial, Parallel, ZGC)
+- String Pool
+
+### Hilos y concurrencia
+- Conceptos básicos sobre concurrencia e hilos
+- Diferencias entre Thread y Runnable en Java
+- ¿Cómo asegurar un un recurso compartido entre varios hilos?
+- ¿Cómo gestionar los bloqueos?
+- Uso de synchronized, volatile, y locks
+- Paquetes de concurrencia o frameworks: ExecutorService, ForkJoinPool
+- Estructuras o clases concurrentes en Java
+- Diferencia entre clases concurrentes y clases thread safe
+
+### Programación funcional
+
+- Lambdas
+- API Streams
+- ¿Qué son las interfaces funcionales? Uso de Fuction, Supplier, Predicate, Consumer y su variantes BI.
+
+### Java IO y NIO
+- Manejo de archivo con IO y NIO
+- Diferencias entre IO bloqueante y no-bloqueante
+
+### Optimización en la JVM
+
+- Preguntas relacionadas a como optimizar rendimiento en Java
+- Herramienats de profiling, ¿qué son y para que sirven?
+
+
+
+## CONTINUARA...
 
